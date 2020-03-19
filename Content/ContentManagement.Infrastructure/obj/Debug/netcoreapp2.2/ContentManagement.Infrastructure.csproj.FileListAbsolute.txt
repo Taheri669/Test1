@@ -1,0 +1,17 @@
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.deps.json
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.pdb
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.pdb
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.deps.json
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.dll
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.pdb
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.dll
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.pdb
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Infrastructure\obj\Debug\netcoreapp2.2\ContentManagement.Infrastructure.csprojAssemblyReference.cache

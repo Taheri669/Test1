@@ -1,0 +1,5 @@
+﻿ from main project
+ 
+ dotnet ef migrations add Initial  -o Data/Migrations  -c ApplicationDbContext  --startup-project ../ContentManagement/
+
+  dotnet ef database update   -c ApplicationDbContext  --startup-project ../ContentManagement/

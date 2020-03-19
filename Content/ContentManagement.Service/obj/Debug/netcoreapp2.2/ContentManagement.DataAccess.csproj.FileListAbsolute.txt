@@ -1,0 +1,14 @@
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\bin\Debug\netcoreapp2.2\ContentManagement.DataAccess.deps.json
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\obj\Debug\netcoreapp2.2\ContentManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\obj\Debug\netcoreapp2.2\ContentManagement.DataAccess.csprojAssemblyReference.cache
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\obj\Debug\netcoreapp2.2\ContentManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\obj\Debug\netcoreapp2.2\ContentManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\bin\Debug\netcoreapp2.2\ContentManagement.DataAccess.dll
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\bin\Debug\netcoreapp2.2\ContentManagement.DataAccess.pdb
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\bin\Debug\netcoreapp2.2\ContentManagement.Domain.dll
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.dll
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\bin\Debug\netcoreapp2.2\ContentManagement.Domain.pdb
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\bin\Debug\netcoreapp2.2\ContentManagement.Infrastructure.pdb
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\obj\Debug\netcoreapp2.2\ContentManagement.DataAccess.csproj.CopyComplete
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\obj\Debug\netcoreapp2.2\ContentManagement.DataAccess.dll
+C:\Users\Ali Taheri\Desktop\Content\Content\ContentManagement.Service\obj\Debug\netcoreapp2.2\ContentManagement.DataAccess.pdb
